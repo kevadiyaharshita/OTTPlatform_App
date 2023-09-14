@@ -1,16 +1,7 @@
-# ott_platform
 
-A new Flutter project.
 
-## Getting Started
+<img src="https://github.com/kevadiyaharshita/OTTPlatform_App/assets/133105068/60d843c4-f2cf-40ed-a359-fb7bcbbbe207" width="300px">
+<img src="https://github.com/kevadiyaharshita/OTTPlatform_App/assets/133105068/75eb6474-5096-45a1-b5a3-b7d8847a8eb3" width="300px">
+<img src="https://github.com/kevadiyaharshita/OTTPlatform_App/assets/133105068/744f8725-9fee-4123-9200-118088542705" width="300px">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
